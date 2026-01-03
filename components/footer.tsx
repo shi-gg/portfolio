@@ -68,7 +68,7 @@ function Info() {
                                 height={18}
                                 className="rounded-full relative right-1.5 px-[1px]"
                             />
-                            Luna-devv
+                            Shi-gg
                         </Badge>
                     </Link>
                 </span>
