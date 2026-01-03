@@ -53,7 +53,7 @@ function Info() {
                     Made with love & autism by
                     {/* Do not alter the href, image src and author name */}
                     <Link
-                        href="https://github.com/Luna-devv/portfolio"
+                        href="https://github.com/shi-gg/portfolio"
                         target="_blank"
                     >
                         <Badge
@@ -68,7 +68,7 @@ function Info() {
                                 height={18}
                                 className="rounded-full relative right-1.5 px-[1px]"
                             />
-                            Luna-devv
+                            Shi-gg
                         </Badge>
                     </Link>
                 </span>
